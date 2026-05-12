@@ -1,0 +1,601 @@
+[06:32:33] [STARTED] select() multi-client server running on port 5000
+[06:32:39] [CONNECTED] 127.0.0.1:52226 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 1
+[06:32:39] [CONNECTED] 127.0.0.1:52240 fd=5
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [MESSAGE] fd 5 -> Hello from client 2
+[06:32:39] [DISCONNECTED] client fd 5
+[06:32:39] [CONNECTED] 127.0.0.1:52246 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 3
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52248 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 4
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52258 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 5
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52260 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 6
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52276 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 7
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52292 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 8
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52298 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 9
+[06:32:39] [CONNECTED] 127.0.0.1:52302 fd=5
+[06:32:39] [MESSAGE] fd 5 -> Hello from client 10
+[06:32:39] [DISCONNECTED] client fd 5
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52318 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 11
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52332 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 12
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52334 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 13
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52344 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 14
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52360 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 15
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52362 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 16
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52364 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 17
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52370 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 18
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52380 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 19
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52382 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 20
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52392 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 21
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52396 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 22
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52398 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 23
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52414 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 24
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52426 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 25
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52440 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 26
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52450 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 27
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52462 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 28
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52476 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 29
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52480 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 30
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52496 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 31
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52506 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 32
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52514 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 33
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52524 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 34
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52538 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 35
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52552 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 36
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52566 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 37
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52572 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 38
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52584 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 39
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52594 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 40
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52608 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 41
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52610 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 42
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52624 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 43
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52638 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 44
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52654 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 45
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52660 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 46
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52672 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 47
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52684 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 48
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52686 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 49
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52692 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 50
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52694 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 51
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52696 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 52
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52708 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 53
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52714 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 54
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52722 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 55
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52732 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 56
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52746 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 57
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52750 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 58
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52766 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 59
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52770 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 60
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52774 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 61
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52786 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 62
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52798 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 63
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52806 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 64
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52814 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 65
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52820 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 66
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52826 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 67
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52830 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 68
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52842 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 69
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52850 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 70
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52856 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 71
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52858 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 72
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52874 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 73
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52878 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 74
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52886 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 75
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52896 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 76
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52900 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 77
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52914 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 78
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52918 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 79
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52930 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 80
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52936 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 81
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52940 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 82
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52952 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 83
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52954 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 84
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52968 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 85
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52972 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 86
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52986 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 87
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52988 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 88
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:52990 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 89
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53000 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 90
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53002 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 91
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53010 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 92
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53026 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 93
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53030 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 94
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53046 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 95
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53052 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 96
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53064 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 97
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53072 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 98
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53080 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 99
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53092 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 100
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53098 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 101
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53108 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 102
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53122 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 103
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53130 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 104
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53134 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 105
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53136 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 106
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53142 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 107
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53146 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 108
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53160 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 109
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53176 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 110
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53190 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 111
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53204 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 112
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53206 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 113
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53208 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 114
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53218 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 115
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53230 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 116
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53232 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 117
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53236 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 118
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53248 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 119
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53250 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 120
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53256 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 121
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53272 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 122
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53282 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 123
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53296 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 124
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53300 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 125
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53316 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 126
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53318 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 127
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53334 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 128
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53338 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 129
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53348 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 130
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53352 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 131
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53368 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 132
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53384 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 133
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53392 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 134
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53394 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 135
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53398 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 136
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53408 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 137
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53422 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 138
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53438 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 139
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53442 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 140
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53456 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 141
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53462 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 142
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53476 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 143
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53478 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 144
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53494 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 145
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53504 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 146
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53510 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 147
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53512 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 148
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53514 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 149
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53522 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 150
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53524 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 151
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53532 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 152
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53534 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 153
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53544 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 154
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53556 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 155
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53562 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 156
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53568 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 157
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53582 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 158
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53586 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 159
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53600 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 160
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53606 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 161
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53614 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 162
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53630 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 163
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53634 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 164
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53638 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 165
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53648 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 166
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53654 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 167
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53666 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 168
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53674 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 169
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53684 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 170
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53688 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 171
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53696 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 172
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53702 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 173
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53718 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 174
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53722 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 175
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53730 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 176
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53732 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 177
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53746 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 178
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53762 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 179
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53772 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 180
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53778 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 181
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53780 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 182
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53786 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 183
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53792 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 184
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53804 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 185
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53814 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 186
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53820 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 187
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53830 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 188
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53840 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 189
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53856 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 190
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53864 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 191
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53872 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 192
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53884 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 193
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53894 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 194
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53902 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 195
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53906 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 196
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53912 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 197
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53928 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 198
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53938 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 199
+[06:32:39] [DISCONNECTED] client fd 4
+[06:32:39] [CONNECTED] 127.0.0.1:53944 fd=4
+[06:32:39] [MESSAGE] fd 4 -> Hello from client 200
+[06:32:39] [DISCONNECTED] client fd 4

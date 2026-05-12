@@ -1,0 +1,4 @@
+[10:25:55] [STARTED] Multi-client TCP server running on port 5000
+[10:26:03] [CONNECTED] 127.0.0.1:41812
+[10:26:03] [MESSAGE] 127.0.0.1:41812 -> Hello [10:26:05] [MESSAGE] 127.0.0.1:41812 -> from [10:26:07] [MESSAGE] 127.0.0.1:41812 -> partial client
+[10:26:07] [DISCONNECTED] 127.0.0.1:41812

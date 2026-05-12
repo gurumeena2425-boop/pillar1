@@ -1,0 +1,4 @@
+[05:53:32] [START] M3 select() event-driven server running on port 5000
+[05:53:41] [CONNECTED] fd=4 ip=127.0.0.1 port=56168 slot=0
+[05:54:11] [TIMEOUT] fd=4 ip=127.0.0.1 port=56168 idle=30 seconds
+[05:54:11] [CLEANUP] closing fd=4 ip=127.0.0.1 port=56168

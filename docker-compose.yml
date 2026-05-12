@@ -1,0 +1,12 @@
+services:
+  networking-practise:
+    build: .
+    container_name: networking_practise_lab
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    stdin_open: true
+    tty: true
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
