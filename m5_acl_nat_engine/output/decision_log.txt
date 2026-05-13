@@ -1,0 +1,36 @@
+====================================================
+PACKET ID: 1
+ORIGINAL: TCP 10.0.0.2:34567 -> 8.8.8.8:80 direction=OUT
+ACL: matched rule 3 action=ALLOW
+NAT OUT: 10.0.0.2:34567 translated to 203.0.113.10:40000
+AFTER POLICY: TCP 203.0.113.10:40000 -> 8.8.8.8:80 direction=OUT
+ROUTE: output interface = eth0
+FINAL DECISION: FORWARD
+====================================================
+PACKET ID: 2
+ORIGINAL: TCP 10.0.0.2:34568 -> 10.0.0.10:22 direction=OUT
+ACL: matched rule 1 action=DENY
+FINAL DECISION: DROP
+DROP REASON: ACL denied packet
+====================================================
+PACKET ID: 3
+ORIGINAL: UDP 10.0.0.3:33333 -> 8.8.8.8:53 direction=OUT
+ACL: matched rule 3 action=ALLOW
+NAT OUT: 10.0.0.3:33333 translated to 203.0.113.10:40001
+AFTER POLICY: UDP 203.0.113.10:40001 -> 8.8.8.8:53 direction=OUT
+ROUTE: output interface = eth0
+FINAL DECISION: FORWARD
+====================================================
+PACKET ID: 4
+ORIGINAL: TCP 8.8.8.8:80 -> 203.0.113.10:40000 direction=IN
+NAT IN: 203.0.113.10:40000 translated back to 10.0.0.2:34567
+ACL: matched rule 3 action=ALLOW
+AFTER POLICY: TCP 8.8.8.8:80 -> 10.0.0.2:34567 direction=IN
+ROUTE: output interface = eth1
+FINAL DECISION: FORWARD
+====================================================
+PACKET ID: 5
+ORIGINAL: TCP 1.1.1.1:443 -> 203.0.113.10:49999 direction=IN
+NAT IN: no matching NAT state found
+FINAL DECISION: DROP
+DROP REASON: no NAT state for incoming packet
